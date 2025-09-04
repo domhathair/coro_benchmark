@@ -1,0 +1,6 @@
+[submodule "lib/coro"]
+	path = lib/coro
+	url = https://github.com/edubart/minicoro.git
+[submodule "lib/co"]
+	path = lib/co
+	url = https://github.com/higan-emu/libco
